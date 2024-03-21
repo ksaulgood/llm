@@ -15,3 +15,5 @@ It does so using three Chinese variants: Chinese Traditional, Chinese Simplified
 # Packages needed
 openai,
 translate_v2
+
+# To view stories presented in the paper click on the "Stories From Paper" item where they will be individually added in text files.
